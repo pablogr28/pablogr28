@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Pablogr28</h1>
+<h1 align="center">Hi 👋, I'm pablogr28</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+welcome+to+my+profile+%F0%9F%98%8E%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pablogr28" alt="Pablogr28" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pablogr28" alt="pablogr28" /></a> </p>
 
-### <div align="center">I'm Fran, a full-time web application development student💻🚀</div>  
+### <div align="center">I'm Pablo, a full-time web application development student💻🚀</div>  
 
 🔭 I’m currently studying on IES Jacaranda
 
@@ -17,7 +17,7 @@
 
 <p align="left">
   
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pablogr28)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pablogr28)
   
   ![Profile views counter](https://komarev.com/ghpvc/?username=Pablogr28&&style=flat-square)  
 
@@ -66,7 +66,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Pablogr28" target="_blank">
+<a href="https://github.com/pablogr28" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/pablogr_02" target="_blank">
